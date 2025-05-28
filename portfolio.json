@@ -12,7 +12,7 @@
   "social_links": [
     {
       "label": "Personal Website",
-      "url": "https://sample.com",
+      "url": "http://surajkukkipady.github.io/",
       "svg_path": "img/globe.svg"
     },
     {
@@ -35,9 +35,9 @@
       "end_date": "Present",
       "summary": "Short summary about present job and what the position entails",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Worked in Healthcare domain for a US based client.",
+        "Involved in end to end feature testing, writing test plan and test cases.",
+        "Automation using playwright and Python."
       ]
     },
     {
