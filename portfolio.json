@@ -177,12 +177,12 @@
   "skills": [
     {
       "name": "Manual Testing",
-      "proficiency": 100,
+      "proficiency": 90,
       "proficiency_label": "Proficiency Level"
     },
     {
       "name": "Automation Testing",
-      "proficiency": 80,
+      "proficiency": 100,
       "proficiency_label": "Proficiency Level"
     }
   ],
