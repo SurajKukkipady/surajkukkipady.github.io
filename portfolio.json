@@ -29,7 +29,7 @@
   "work_experience": [
     {
       "company": "SONY",
-      "position": "Consultant (SDET)",
+      "position": "SDET (Consultant)",
       "url": "https://www.sonyindiasoftware.co.in/",
       "start_date": "01/OCT/2025",
       "end_date": "Present",
@@ -172,6 +172,28 @@
       "location": "Chennai, India",
       "url": "https://avadicrpf.kvs.ac.in/",
       "degrees": ["All India Senior School Certificate Examination"]
+    }
+  ],
+  "skills_list": [
+    {
+      "category": "Languages",
+      "items": ["Python", "Javascript", "SQL"]
+    },
+    {
+      "category": "Automation Testing",
+      "items": ["Playwright", "Selenium", "Pytest", "Postman"]
+    },
+    {
+      "category": "Manual Testing",
+      "items": ["Test Plan", "Test Case Design & Execution", "Bug Reporting & Tracking"]
+    },
+    {
+      "category": "Mobile Testing",
+      "items": ["Android Studio", "Xcode"]
+    },
+    {
+      "category": "Version Control",
+      "items": ["Git", "Github"]
     }
   ],
   "skills": [
