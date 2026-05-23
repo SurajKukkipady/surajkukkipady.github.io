@@ -1,13 +1,13 @@
 {
   "name": "Suraj K",
-  "label": "Senior Software Tester",
+  "label": "Software Development Engineer in Test",
   "image_path": "img/default-image.png",
   "contact": {
     "email": "suraj.kukkipady1@gmail.com",
     "phone": "866-015-3482",
     "location": "Bangalore"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "Experienced Software Development Engineer in Test (SDET) with a strong background in manual and automated testing across web, mobile, and desktop applications. Proficient in Playwright,Selenium, Appium using Python with a track record of driving end-to-end testing in healthcare, software development, and gaming domains.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -28,12 +28,25 @@
   ],
   "work_experience": [
     {
+      "company": "SONY",
+      "position": "Consultant (SDET)",
+      "url": "https://www.sonyindiasoftware.co.in/",
+      "start_date": "01/OCT/2025",
+      "end_date": "Present",
+      "summary": "Working for Sony via UST",
+      "highlights": [
+        "Worked in Playstation application for a Sony at Sony India Software Centre.",
+        "Involved in implementation of test scenarios, and automation script maintanence.",
+        "Automation using Appium, Selenium using Python for PS applications."
+      ]
+    },
+    {
       "company": "iQGateway",
       "position": "Senior Software Tester",
       "url": "https://iqgateway.com/",
       "start_date": "01/SEP/2023",
-      "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "end_date": "31/SEP/2025",
+      "summary": "Senior tester in the healthcare domain specializing in end-to-end feature testing, test planning, and Playwright/Python automation",
       "highlights": [
         "Worked in Healthcare domain for a US based client.",
         "Involved in end to end feature testing, writing test plan and test cases.",
@@ -46,7 +59,7 @@
       "url": "https://www.elevate.so/",
       "start_date": "01/JAN/2023",
       "end_date": "01/AUG/2023",
-      "summary": "Short summary about previous job and what that position entailed",
+      "summary": "QA Engineer focused on UI/API testing, test planning, and bug tracking using Zippy and Sentry.",
       "highlights": [
         "Involved in UI and API testing",
         "Planning tests, writing test cases and executing them accordingly",
@@ -59,7 +72,7 @@
       "url": "https://www.kommunicate.io/",
       "start_date": "01/JUN/2021",
       "end_date": "01/JAN/2023",
-      "summary": "Short summary about previous job and what that position entailed",
+      "summary": "QA Engineer specializing in end-to-end testing, AWS deployments, and Playwright/Python test automation.",
       "highlights": [
         "Involved in End to End testing of web and mobile application",
         "Deployment in servers using AWS Amplify and Codepipeline",
